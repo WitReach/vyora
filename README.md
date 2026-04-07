@@ -45,6 +45,45 @@ Please check the CONTRIBUTING.md file for setup and contribution guidelines.
 
 ---
 
+## 🧠 System Overview
+
+Vyora is a headless commerce platform built with a modular architecture:
+
+### Frontend (Next.js)
+
+* Customer-facing storefront
+* Fully API-driven
+* Hosted on primary domain
+
+### OCC (Operations Command Center - Laravel)
+
+* Admin panel for managing products, orders, and users
+* Page builder for custom storefront design
+* Role-based access control
+* Hosted on subdomain
+
+---
+
+## 🔌 Integrations
+
+Vyora is designed to integrate with external services:
+
+* WhatsApp Business (order notifications)
+* Zoho (Books, Invoice, Campaigns)
+* Email (SMTP / Zoho Mail)
+* QikInk (Print-on-demand dropshipping)
+
+---
+
+## 🎨 Page Builder
+
+Vyora includes a flexible page builder system:
+
+* Create custom landing pages
+* Use reusable UI components
+* Control layout and content from OCC
+
+
 ## 👤 Author
 
 Created and led by Karan Khandekar

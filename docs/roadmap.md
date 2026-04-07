@@ -1,18 +1,29 @@
 # Vyora Roadmap
 
-## Phase 1
+## Phase 1 — Foundation
 
-* Basic project setup
-* Auth system
-* Product APIs
+* [ ] Auth system
+* [ ] Product CRUD APIs
+* [ ] Basic frontend (product listing)
 
-## Phase 2
+## Phase 2 — Core Commerce
 
-* Cart system
-* Checkout flow
-* Orders
+* [ ] Cart & checkout
+* [ ] Order management
+* [ ] Role-based access (OCC)
 
-## Phase 3
+## Phase 3 — Experience Layer
 
-* Payments integration
-* Admin dashboard
+* [ ] Page builder (custom landing pages)
+* [ ] Component system
+
+## Phase 4 — Integrations
+
+* [ ] WhatsApp notifications
+* [ ] Zoho integrations
+* [ ] QikInk product sync
+
+## Phase 5 — Scaling
+
+* [ ] Performance optimization
+* [ ] Multi-tenant support (optional)

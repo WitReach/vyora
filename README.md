@@ -1,4 +1,4 @@
-# Vyora
+# Vyora व्योरा 
 
 Open-source headless commerce platform for modern brands.
 

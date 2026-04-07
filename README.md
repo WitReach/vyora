@@ -88,3 +88,14 @@ Vyora includes a flexible page builder system:
 
 Created and led by Karan Khandekar
 Part of the WitReach ecosystem
+
+## ❤️ Support Vyora
+
+Vyora is open-source and free to use.
+
+If you're using Vyora for your business and find it valuable, you can support its development:
+
+**👉 Razorpay: https://rzp.io/rzp/support-vyora**
+
+Your support helps us improve and maintain the project.
+

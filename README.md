@@ -22,8 +22,8 @@ Vyora aims to become a scalable, developer-first alternative to traditional ecom
 
 ## 📦 Repositories
 
-* Frontend: https://github.com/YOUR-USERNAME/vyora-frontend
-* API: https://github.com/YOUR-USERNAME/vyora-api
+* Frontend: https://github.com/WitReach/vyora-frontend
+* API: https://github.com/WitReach/vyora-api
 
 ---
 
